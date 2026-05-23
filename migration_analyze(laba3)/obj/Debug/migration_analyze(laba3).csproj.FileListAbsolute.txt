@@ -1,0 +1,9 @@
+C:\project git\laba_3\migration_analyze(laba3)\bin\Debug\migration_analyze(laba3).exe.config
+C:\project git\laba_3\migration_analyze(laba3)\bin\Debug\migration_analyze(laba3).exe
+C:\project git\laba_3\migration_analyze(laba3)\bin\Debug\migration_analyze(laba3).pdb
+C:\project git\laba_3\migration_analyze(laba3)\obj\Debug\migration_analyze(laba3).csproj.AssemblyReference.cache
+C:\project git\laba_3\migration_analyze(laba3)\obj\Debug\migration_analyze_laba3_.Properties.Resources.resources
+C:\project git\laba_3\migration_analyze(laba3)\obj\Debug\migration_analyze(laba3).csproj.GenerateResource.cache
+C:\project git\laba_3\migration_analyze(laba3)\obj\Debug\migration_analyze(laba3).csproj.CoreCompileInputs.cache
+C:\project git\laba_3\migration_analyze(laba3)\obj\Debug\migration_analyze(laba3).exe
+C:\project git\laba_3\migration_analyze(laba3)\obj\Debug\migration_analyze(laba3).pdb
