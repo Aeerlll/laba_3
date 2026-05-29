@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\project git\\laba_3\\migration_analyze(laba3)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA50B147-1EB8-457E-9642-9E2A8A788588}|migration_analyze(laba3).csproj|c:\\project git\\laba_3\\migration_analyze(laba3)\\migrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA50B147-1EB8-457E-9642-9E2A8A788588}|migration_analyze(laba3).csproj|solutionrelative:migrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA50B147-1EB8-457E-9642-9E2A8A788588}|migration_analyze(laba3).csproj|c:\\project git\\laba_3\\migration_analyze(laba3)\\migrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA50B147-1EB8-457E-9642-9E2A8A788588}|migration_analyze(laba3).csproj|solutionrelative:migrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA50B147-1EB8-457E-9642-9E2A8A788588}|migration_analyze(laba3).csproj|c:\\project git\\laba_3\\migration_analyze(laba3)\\migration.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DA50B147-1EB8-457E-9642-9E2A8A788588}|migration_analyze(laba3).csproj|solutionrelative:migration.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA50B147-1EB8-457E-9642-9E2A8A788588}|migration_analyze(laba3).csproj|c:\\project git\\laba_3\\migration_analyze(laba3)\\migrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA50B147-1EB8-457E-9642-9E2A8A788588}|migration_analyze(laba3).csproj|solutionrelative:migrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA50B147-1EB8-457E-9642-9E2A8A788588}|migration_analyze(laba3).csproj|c:\\project git\\laba_3\\migration_analyze(laba3)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA50B147-1EB8-457E-9642-9E2A8A788588}|migration_analyze(laba3).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA50B147-1EB8-457E-9642-9E2A8A788588}|migration_analyze(laba3).csproj|c:\\project git\\laba_3\\migration_analyze(laba3)\\migrationrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA50B147-1EB8-457E-9642-9E2A8A788588}|migration_analyze(laba3).csproj|solutionrelative:migrationrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MigrationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\project git\\laba_3\\migration_analyze(laba3)\\MigrationForm.cs",
+              "RelativeDocumentMoniker": "MigrationForm.cs",
+              "ToolTip": "C:\\project git\\laba_3\\migration_analyze(laba3)\\MigrationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "MigrationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T08:37:45.697Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "migration.csv",
+              "DocumentMoniker": "C:\\project git\\laba_3\\migration_analyze(laba3)\\migration.csv",
+              "RelativeDocumentMoniker": "migration.csv",
+              "ToolTip": "C:\\project git\\laba_3\\migration_analyze(laba3)\\migration.csv",
+              "RelativeToolTip": "migration.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2026-05-23T08:35:26.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MigrationForm.cs",
+              "DocumentMoniker": "C:\\project git\\laba_3\\migration_analyze(laba3)\\MigrationForm.cs",
+              "RelativeDocumentMoniker": "MigrationForm.cs",
+              "ToolTip": "C:\\project git\\laba_3\\migration_analyze(laba3)\\MigrationForm.cs*",
+              "RelativeToolTip": "MigrationForm.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T08:20:15.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MigrationForm.Designer.cs",
+              "DocumentMoniker": "C:\\project git\\laba_3\\migration_analyze(laba3)\\MigrationForm.Designer.cs",
+              "RelativeDocumentMoniker": "MigrationForm.Designer.cs",
+              "ToolTip": "C:\\project git\\laba_3\\migration_analyze(laba3)\\MigrationForm.Designer.cs*",
+              "RelativeToolTip": "MigrationForm.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T08:19:38.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MigrationRecord.cs",
+              "DocumentMoniker": "C:\\project git\\laba_3\\migration_analyze(laba3)\\MigrationRecord.cs",
+              "RelativeDocumentMoniker": "MigrationRecord.cs",
+              "ToolTip": "C:\\project git\\laba_3\\migration_analyze(laba3)\\MigrationRecord.cs*",
+              "RelativeToolTip": "MigrationRecord.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T08:15:30.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\project git\\laba_3\\migration_analyze(laba3)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\project git\\laba_3\\migration_analyze(laba3)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T08:10:23.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
